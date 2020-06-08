@@ -1,6 +1,6 @@
 
 // Lets have a little demo for the MongoTimeStampConvertor
-const {ObjectIdToDateTime} = require('./MongoTimeStampConvertor');
+const {ObjectIdToDateTime} = require('./js/MongoTimeStampConvertor');
 
 // Stuff the ObjectID from Mongo here...
 const objectId = '5eda762fb9c1355c5fa715a4'
